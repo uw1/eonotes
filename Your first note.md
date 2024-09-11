@@ -12,8 +12,6 @@ st
 This is **my first** note 🎉
 ```
 
-this is not good
-this is ok 
-stiill not sync
-
-
+sthseot
+steos
+why dont auto sync??
