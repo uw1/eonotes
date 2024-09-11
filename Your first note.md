@@ -15,5 +15,5 @@ This is **my first** note 🎉
 this is not good
 this is ok 
 stiill not sync
-fucking sync
+
 
