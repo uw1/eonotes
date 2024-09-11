@@ -1,5 +1,5 @@
 {
-  "remoteURL": "https://github.com/uw1/eonotes.git",
+  "remoteURL": "git@github.com:uw1/eonotes.git",
   "gitLocation": "",
   "syncinterval": 0,
   "isSyncOnLoad": false
