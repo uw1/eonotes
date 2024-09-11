@@ -2,8 +2,7 @@
 sort: 2
 tags: ["basics"]
 ---
-
-Now that the template is ready, you can create your first note. Go ahead and create a new file `My Note.md` in the root of the project.
+st
 
 ```markdown
 <!-- /My Note.md -->
@@ -13,6 +12,8 @@ Now that the template is ready, you can create your first note. Go ahead and cre
 This is **my first** note 🎉
 ```
 
-You should now see the note in the sidebar. Click on it to open it and see the rendered content.
-
 this is not good
+this is ok 
+stiill not sync
+fucking sync ok
+
